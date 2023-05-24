@@ -1,0 +1,19 @@
+type: simple
+schema:
+  type: array
+  item:
+    type: object
+    properties:
+      id:
+        type: string
+      text:
+        type: string
+value:
+  - id: b7905c1c-16f1-4be6-bb7f-ad45b1f53f01
+    text: Account
+  - id: 4fab7992-918f-4dd2-ace1-d37a616481b5
+    text: Cards
+  - id: 567a4876-9cec-4c0d-8ec6-dd22f4af53dc
+    text: Contact Details
+  - id: 04c626e7-2596-48d8-ac40-7bf5610e3f26
+    text: Address Details
